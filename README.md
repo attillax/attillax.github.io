@@ -1,2 +1,2 @@
 # attillax.github.io
-pages
+Collection of my web-pages
